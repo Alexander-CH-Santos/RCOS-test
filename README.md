@@ -2,3 +2,5 @@
 A test repository for learning git
 - Alexander Santos
 - ![An image of a hedgehog](hedgehogggg.webp)
+- 2029
+- Robotics Autonomy
